@@ -1,8 +1,8 @@
-# VIHANGA-BOT-MD
-#### TOTAL REPO VIEWS📍
+# LO9MANE-BOT-MD
+#### TOTAL DIAL NAS LI CHAFO LBOT📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-    Vihanga MD V3...
+    LO9MANE MD V3...
 
     [©] New Features
 
@@ -15,7 +15,7 @@
      > and more...
     
 
-    [©] Vihanga MD V4 Upcoming Features[Not Relesed]
+    [©] LO9MANE MD V4 Upcoming Features[Not Relesed]
 
      > Playstore Apk Downloder
      > Playstore Apk searcher
@@ -27,13 +27,13 @@
    
    
    
-   ```Thanks Fro using Vihanga MD```
+   ```Thanks Fro usin AYA BOT MD```
 
-## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
+## Thanks To : [`BASSAM KROZ`](https://github.com/zim-bot/zimbot-v4)
 
-# Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+# Support Group <a href="https://chat.whatsapp.c https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white om/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+lo9mane+MD+WA+BOT.;CREATED+BY+aya +YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
  </a>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-  <p align="center">
+  <p align="center">https://instagram.com/pr_fh_1?igshid=1nji9utqlm4nn
 
 <img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
 
@@ -57,7 +57,6 @@
 
 <p align="center">By Vihanga YT>| © | Reserved  </br> 
  
- ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
 
 1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-V2-Qr?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
