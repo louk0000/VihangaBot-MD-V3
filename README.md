@@ -31,7 +31,7 @@
 
 ## Thanks To : [`BASSAM KROZ`](https://github.com/zim-bot/zimbot-v4)
 
-# Support Group <a href="https://chat.whatsapp.c https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white om/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+# Support Group <a href="https://chat.whatsapp.com/D36CBJd7nlSAyD1pqMN3tL https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white om/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+lo9mane+MD+WA+BOT.;CREATED+BY+aya +YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
@@ -55,10 +55,10 @@
 
 </div>
 
-<p align="center">By Vihanga YT>| © | Reserved  </br> 
+<p align="center">By lo9mane YT>| © | Reserved  </br> 
  
 
-1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-V2-Qr?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@lo9mane-YTYT/lo9mane-MD-V2-Qr?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V3/fork)
 
@@ -70,7 +70,7 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`lo9mane-YT`](https://github.com/louk0000)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
